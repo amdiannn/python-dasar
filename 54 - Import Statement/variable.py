@@ -1,0 +1,1 @@
+data = "faqihza ganteng abis!"
